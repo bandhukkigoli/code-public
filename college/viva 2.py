@@ -1,0 +1,2 @@
+c= "hedgehog"
+print(c)
