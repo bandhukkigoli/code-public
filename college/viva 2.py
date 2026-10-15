@@ -1,2 +1,0 @@
-c= "hedgehog"
-print(c)
